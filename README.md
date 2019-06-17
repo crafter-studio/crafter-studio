@@ -1,2 +1,2 @@
 # crafter-studio
-The main repository for Craft Studio
+The main repository for Crafter Studio
